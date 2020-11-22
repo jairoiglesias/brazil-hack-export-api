@@ -1,0 +1,103 @@
+<li><a href='index.php?cod=60130&mes=11&ano=18'>Barra do Porto de Paranagu&aacute; Canal Sueste-PR
+</a></li>
+<li><a href='index.php?cod=10653&mes=11&ano=18'>Barra Norte do Rio Amazonas-Ponta do C&eacute;u-AP
+</a></li>
+<li><a href='index.php?cod=30825&mes=11&ano=18'>Capitania dos Portos de Sergipe-SE
+</a></li>
+<li><a href='index.php?cod=20520&mes=11&ano=18'>Fundeadouro de Salin&oacute;polis-PA
+</a></li>
+<li><a href='index.php?cod=40263&mes=11&ano=18'>Ilha da Trindade-Brasil
+</a></li>
+<li><a href='index.php?cod=30955&mes=11&ano=18'>Ilha de Fernando de Noronha-Pernambuco
+</a></li>
+<li><a href='index.php?cod=10525&mes=11&ano=18'>Ilha do Mosqueiro-PA
+</a></li>
+<li><a href='index.php?cod=20535&mes=11&ano=18'>Ilha dos Guar&aacute;s-PA
+</a></li>
+<li><a href='index.php?cod=50170&mes=11&ano=18'>Porto de Angra dos Reis-RJ
+</a></li>
+<li><a href='index.php?cod=40135&mes=11&ano=18'>Porto de Aratu-BA
+</a></li>
+<li><a href='index.php?cod=30407&mes=11&ano=18'>Porto de Areia Branca-Termisa-RN
+</a></li>
+<li><a href='index.php?cod=10520&mes=11&ano=18'>Porto de Bel&eacute;m-PA
+</a></li>
+<li><a href='index.php?cod=30540&mes=11&ano=18'>Porto de Cabedelo-PB
+</a></li>
+<li><a href='index.php?cod=60245&mes=11&ano=18'>Porto de Florian&oacute;polis-SC
+</a></li>
+<li><a href='index.php?cod=30443&mes=11&ano=18'>Proto de Guamar&eacute;-RN
+</a></li>
+<li><a href='index.php?cod=40145&mes=11&ano=18'>Porto de Ilh&eacute;us-BA
+</a></li>
+<li><a href='index.php?cod=60250&mes=11&ano=18'>Porto de Imbituba-SC
+</a></li>
+<li><a href='index.php?cod=50145&mes=11&ano=18'>Porto de Itagua&iacute;-RJ
+</a></li>
+<li><a href='index.php?cod=60235&mes=11&ano=18'>Porto de Itaja&iacute;-SC
+</a></li>
+<li><a href='index.php?cod=30110&mes=11&ano=18'>Porto de Itaqui-MA
+</a></li>
+<li><a href='index.php?cod=30225&mes=11&ano=18'>Porto de Lu&iacute;s Correia-PI
+</a></li>
+<li><a href='index.php?cod=30445&mes=11&ano=18'>Porto de Macau-RN
+</a></li>
+<li><a href='index.php?cod=30725&mes=11&ano=18'>Porto de Macei&oacute;-AL
+</a></li>
+<li><a href='index.php?cod=40118&mes=11&ano=18'>Porto de Madre de Deus-BA
+</a></li>
+<li><a href='index.php?cod=30340&mes=11&ano=18'>Porto de Mucuripe-CE
+</a></li>
+<li><a href='index.php?cod=30461&mes=11&ano=18'>Porto de Natal-RN
+</a></li>
+<li><a href='index.php?cod=60132&mes=11&ano=18'>Porto de Paranagu&aacute;-PR
+</a></li>
+<li><a href='index.php?cod=30645&mes=11&ano=18'>Porto de Recife-PE
+</a></li>
+<li><a href='index.php?cod=40140&mes=11&ano=18'>Porto de Salvador-BA
+</a></li>
+<li><a href='index.php?cod=10615&mes=11&ano=18'>Porto de Santana-Icomi-AM
+</a></li>
+<li id='selected'><a href='index.php?cod=50225&mes=11&ano=18'>Porto de Santos-SP
+</a></li>
+<li><a href='index.php?cod=60220&mes=11&ano=18'>Porto de S&atilde;o Francisco do Sul-SC
+</a></li>
+<li><a href='index.php?cod=50210&mes=11&ano=18'>Porto de S&atilde;o Sebasti&atilde;o-SP
+</a></li>
+<li><a href='index.php?cod=30685&mes=11&ano=18'>Porto de Suape-PE
+</a></li>
+<li><a href='index.php?cod=30140&mes=11&ano=18'>Porto de Tut&oacute;ia-MA
+</a></li>
+<li><a href='index.php?cod=10566&mes=11&ano=18'>Porto de Vila do Conde-PA
+</a></li>
+<li><a href='index.php?cod=40252&mes=11&ano=18'>Porto de Vit&oacute;ria-ES
+</a></li>
+<li><a href='index.php?cod=50156&mes=11&ano=18'>Porto do Forno-RJ
+</a></li>
+<li><a href='index.php?cod=50140&mes=11&ano=18'>Porto do Rio de Janeiro-RJ
+</a></li>
+<li><a href='index.php?cod=60370&mes=11&ano=18'>Porto do Rio Grande-RS
+</a></li>
+<li><a href='index.php?cod=40255&mes=11&ano=18'>Porto do Tubar&atilde;o-ES
+</a></li>
+<li><a href='index.php?cod=30120&mes=11&ano=18'>S&atilde;o Lu&iacute;s-MA
+</a></li>
+<li><a href='index.php?cod=30114&mes=11&ano=18'>Terminal da Alumar-MA
+</a></li>
+<li><a href='index.php?cod=50165&mes=11&ano=18'>Terminal da Ilha Gua&iacute;ba-RJ
+</a></li>
+<li><a href='index.php?cod=30149&mes=11&ano=18'>Terminal da Ponta da Madeira-MA
+</a></li>
+<li><a href='index.php?cod=40280&mes=11&ano=18'>Terminal da Ponta do Ubu-ES
+</a></li>
+<li><a href='index.php?cod=40240&mes=11&ano=18'>Terminal de Barra do Riacho-ES
+</a></li>
+<li><a href='index.php?cod=50116&mes=11&ano=18'>Terminal Mar&iacute;timo de Imbetiba-RJ
+</a></li>
+<li><a href='index.php?cod=30810&mes=11&ano=18'>Terminal Mar&iacute;tmo In&aacute;cio Barbosa-SE
+</a></li>
+<li><a href='index.php?cod=60139&mes=11&ano=18'>Terminal Portu&aacute;rio da Ponta do F&eacute;lix-PR
+</a></li>
+<li><a href='index.php?cod=30337&mes=11&ano=18'>Terminal Portu&aacute;rio de Pecem-CE
+</a></li>
+<li><a href='index.php?cod=10572&mes=11&ano=18'>Trapiche de Breves-PA</a></li>
